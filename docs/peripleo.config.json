@@ -4,8 +4,8 @@
   "data": [
     {
       "name": "VisitPlus",
-      "format": "LINKED_PLACES",
-      "src": "./data/KTOP.json",
+      "format": "RECOGITO_IMAGE",
+      "src": "./data/geo.alexandre.jsonld",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
